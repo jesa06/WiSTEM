@@ -26,3 +26,11 @@ title: Lesson Plan
 - Adding interactions with javascript or python
 - Possible jeopardy game or kahoot game
 - Python quiz
+
+# What we plan to do:
+
+- have stuents take time in the middle of the lesson as a break and as a collaborative work period
+- we plan to be engaging
+- we plan to break up the lesson between each other
+- create a small kahoot
+- 
