@@ -23,7 +23,7 @@ title: Lesson Plan
 
 # What we can add in:
 
-- Adding interactions with javascript or python
+- Adding interactions with javascript/python/api/ 
 - Possible jeopardy game or kahoot game
 - Python quiz
 
@@ -33,4 +33,4 @@ title: Lesson Plan
 - we plan to be engaging
 - we plan to break up the lesson between each other
 - create a small kahoot
-- 
+
