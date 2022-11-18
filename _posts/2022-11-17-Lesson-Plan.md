@@ -34,3 +34,11 @@ title: Lesson Plan
 - we plan to break up the lesson between each other
 - create a small kahoot
 
+# Plan for thanksgiving week 
+
+- Monday meet up the 21st at 10:30am starbucks Del Sur
+- Spontaneous ft calls
+- Final run on like Saturday and Sunday
+- Have calls/discussions/meet ups
+- Run over and timing of our entire presentation
+
