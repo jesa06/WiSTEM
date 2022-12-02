@@ -15,7 +15,7 @@ title: 3.1 and 3.2 Lesson Grades
 | Khalid | 0.8 | didn't do 3.2 video 2 binary hacks | Amitha |
 | Elijah | 0.8 | didn't do 3.2 video 2 binary hacks | Amitha |
 | Shaurya | 1 | completed everything accurately and did extra binary hacks, explained wrong answers | Amitha |
-| Kaylee | 0.9 | satisfied requirements | Amitha |
+| Kaylee | 1 | satisfied requirements, did binary hacks | Amitha |
 | Theodore | 0.9 | satisfied requirements | Amitha |
 | James | 1 | completed everything accurately and blogged about lesson, did extra binary hacks | Amitha |
 | Ahmad | 0 | no submission | Amitha |
@@ -27,7 +27,7 @@ title: 3.1 and 3.2 Lesson Grades
 | Raunak | 1 | completed everything accurately and did extra binary hacks | Amitha |
 | Nicolas | 0.9 | satisfied requirements | Naja |
 | Caleb | 0.7 | didn't do binary hacks, notes and hacks are unorganized | Amitha |
-| Justin | 0 | no submission | Amitha |
+| Justin | 0.9 | satisfied requirements, has notes as well | Amitha |
 | Varaprasad | 0.8 | didn't do 3.2 Video 2 HW/Hacks | Amitha |
 | Ellie | 0.9 | satisfied requirements | Amitha |
 | Sachit | 1 | satisfied requirements, did extra binary hacks | Amitha |
