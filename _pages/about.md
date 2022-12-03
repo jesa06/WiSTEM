@@ -9,10 +9,14 @@ This is our trimester 2 APCSP group Fastpages!
 - Some of my hobbies are Brazilian Jiu-Jitsu and singing!
 - I also love dogs, I have 2. Elly a Rottweilier and Athyna a Pitbull.
 
+# Amitha
+
+- My name is Amitha and I am a senior at DNHS. This is my first Computer Science class.
+
 # Naja
 
 # Lina
 
-# Amitha
+
 
 
