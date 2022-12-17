@@ -57,3 +57,19 @@ Reflection: I did this section very dilligently and took thourough notes. I also
 Comments: "MC explanations very thourough, All other meets requirements"
 
 Reflection: I met all the requirements for the MC. I got all the problems correct while giving explanations on why I chose these choices. It was very beneficial for my learning. I also answered the short answer questions and did the coding challenges. I didn't do or attempt the extra credit challenges so I only got a 0.9.
+
+# 3.16
+
+### 0.9/1
+
+Comments: "4/6; Showed excellent profiency in this lesson and made a great simulation"
+
+Reflection: I met all the requirements for the MC. I did them all but I didn't get full credit because I got 2 of them wrong. I also completed all the hacks thouroughly and did the notes well. Lastly, I created my own simulation by making a spinner thing with the colors red and blue.
+
+# 3.17 - 3.18
+
+### 0.95/1
+
+Comments: "Great job. Attempted all the hacks, provided good explanations (for some they were a bit vague), but you added a reflection at the end as well."
+
+Reflection: I found this lesson especially challenging. The hacks were very hard for me to understand but I guess thats a good thing because I struggled to learn and got more out of it. I think I got a 0.95 because I tried my best to do what was asked while also adding my own stuff as well. I tried to be very detailed and had a lot of notes from the lesson
